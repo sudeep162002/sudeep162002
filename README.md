@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Sudeep</h1>
+<h3 align="center">Visionary Blockchain Developer Quantum Computing Aficionado Full Stack Magician LeetCode Maestro (900+ AC) Open-Source Advocate</h3>
+
 # 💫 About Me:
 I am a software engineer undergrad with strong skills in programming languages like Java, C++, and Python, as well as web development frameworks such as React, Node.js, and My Sql. I have a keen interest in machine learning and Quantum computing, having completed various online courses and developed a Quantum computing-based project . I have demonstrated leadership skills through his involvement in extracurricular activities and hackathons. I am pursuing his Bachelor of Technology in Computer Science Engineering from SGSITS Indore and is poised to make a significant impact in the field of software development.
 
