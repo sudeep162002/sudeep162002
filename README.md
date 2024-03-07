@@ -41,9 +41,6 @@ I am a software engineer undergrad with strong skills in programming languages l
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://www.memedroid.com/memes/tag/programming" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=sudeep162002&icon=0&color=1)](https://visitcount.itsvg.in)
 
