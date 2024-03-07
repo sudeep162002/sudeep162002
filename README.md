@@ -8,9 +8,16 @@ I am a software engineer undergrad with strong skills in programming languages l
 ## 🌐 Socials:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sudeep-choudhary-103017203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sudeep-choudhary-103017203/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/sudeep162002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sudeep162002/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sudeep-choudhary-103017203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sudeep-choudhary-103017203/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sudeep162002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sudeep162002/" height="30" width="40" /></a>
+<a href="https://twitter.com/Sudeep13194447)" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+</a>
+<a href="mailto:sudeep162002@gmail.com" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+</a>
 </p>
+
 
 - 🔭 I’m currently working on [decentralize web3 supply chain](https://github.com/Aryanj-07/supply_chain_management_major)
 
