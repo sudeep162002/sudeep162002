@@ -25,8 +25,6 @@ I am a software engineer undergrad with strong skills in programming languages l
 - 💬 Ask me about **quantum computing , Angular, MERN stack**
 
 - 📫 How to reach me **sudeep162002@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rZQEqLGDqyE2LS6o9hSvNWJr7FVFkacc/view](https://drive.google.com/file/d/1rZQEqLGDqyE2LS6o9hSvNWJr7FVFkacc/view)
   
 # 💻 Tech Stack:
 <h3 align="left">Languages and Tools:</h3>
