@@ -20,8 +20,6 @@ I am a software engineer undergrad with strong skills in programming languages l
 
 - 🌱 I’m currently learning **Quantum computing**
 
-- 👨‍💻 All of my projects are available at [https://614c0f44f8ce2100082de740--eager-poitras-5f3e60.netlify.app](https://614c0f44f8ce2100082de740--eager-poitras-5f3e60.netlify.app)
-
 - 💬 Ask me about **quantum computing , Angular, MERN stack**
 
 - 📫 How to reach me **sudeep162002@gmail.com**
